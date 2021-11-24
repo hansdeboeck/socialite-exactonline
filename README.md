@@ -5,7 +5,7 @@ This package extends the laravel/socialite package. It allows to create a 'login
 Use the steps below to install the package.
 
 ##1. Composer
-`composer require michielfb/socialite-exactonline`
+`composer require hansdeboeck/socialite-exactonline`
 
 ##2. Register the service provider
 
