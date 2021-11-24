@@ -1,5 +1,5 @@
 <?php
-namespace Michielfb\SocialiteExactonline;
+namespace DeboeckDEV\SocialiteExactonline;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
