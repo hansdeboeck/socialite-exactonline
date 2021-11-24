@@ -1,10 +1,10 @@
 {
-    "name": "michielfb/socialite-exactonline",
+    "name": "hansdeboeck/socialite-exactonline",
     "description": "Exact Online OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Michielfb",
-        "email": "hi@michiel.email"
+        "name": "Hans De Boeck",
+        "email": "hans@deboeck.dev"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Michielfb\\SocialiteExactonline\\": "src/"
+            "DeboeckDEV\\SocialiteExactonline\\": "src/"
         }
     }
 }
