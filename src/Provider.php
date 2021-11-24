@@ -1,5 +1,5 @@
 <?php
-namespace Michielfb\SocialiteExactonline;
+namespace DeboeckDEV\SocialiteExactonline;
 
 use Laravel\Socialite\Two\ProviderInterface;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
