@@ -9,7 +9,7 @@ class Provider extends AbstractProvider implements ProviderInterface
 {
     const IDENTIFIER = 'exactonline';
 
-    protected $baseUrl = 'https://start.exactonline.nl';
+    protected $baseUrl = 'https://start.exactonline.be';
 
     /**
      * {@inheritdoc}
@@ -73,7 +73,7 @@ class Provider extends AbstractProvider implements ProviderInterface
      */
     protected function getBaseUrl()
     {
-        return $this->getConfig('base_url', 'https://start.exactonline.nl');
+        return $this->getConfig('base_url', 'https://start.exactonline.be');
     }
     /**
      * {@inheritdoc}
